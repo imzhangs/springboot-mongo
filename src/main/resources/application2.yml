@@ -1,0 +1,8 @@
+spring.data.mongodb.host: localhost
+spring.data.mongodb.port: 27071
+spring.data.mongodb.database: dbname
+spring.data.mongodb.username: uuusssnnmmm
+spring.data.mongodb.password: ppsswwddddd
+#spring.data.mongodb.uri: mongodb://localhost/test # connection URL
+# if spring data repository support is enabled
+spring.data.mongo.repositories.enabled: true 
